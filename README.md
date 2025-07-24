@@ -48,4 +48,7 @@ I want to keep learning, building, and improving the world through code.
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juanaday/)
+[![Steam](https://img.shields.io/badge/Why%20God%3F%20on%20Steam-000?logo=steam)](https://store.steampowered.com/app/tu_juego)
+
 📫 *Interested in collaborating? I'm always open to new challenges and impactful ideas.*
