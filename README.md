@@ -6,6 +6,7 @@
 🔬 Active researcher in complex problems like SCC-VRP and CDSP  
 🚀 My mission: to use technology to transform the world, not just optimize it
 
+
 ---
 
 ## 🧪 Research & Development
@@ -15,13 +16,62 @@
 - 🎤 **MAEB**: Speaker at the Spanish Conference on Metaheuristics, Evolutionary and Bioinspired Algorithms.
 - 🧩 **Cesinf**: Presenter at university events on algorithms, AI, and video game development.
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 33%; text-align: center; vertical-align: top;">
+      <div style="max-width: 200px; margin: auto;">
+        <img src="img/csinf.jpg" alt="Cesinf" style="width: 100%; height: auto;" />
+        <b>Cesinf</b>
+      </div>
+    </td>
+    <td style="width: 33%; text-align: center; vertical-align: top;">
+      <div style="max-width: 200px; margin: auto;">
+        <img src="img/MAEB.jpg" alt="MAEB" style="width: 100%; height: auto;" />
+        <b>MAEB</b>
+      </div>
+    </td>
+    <td style="width: 33%; text-align: center; vertical-align: top;">
+      <div style="max-width: 200px; margin: auto;">
+        <img src="img/TFG.png" alt="SCC-VRP" style="width: 100%; height: auto;" />
+        <b>SCC-VRP</b>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ---
+
 
 ## 💼 Professional Experience
 
 - 👨‍🏫 **Instructor** with 3+ years teaching from computational logic to applied software development.
 - 🎮 **Twisted Drago**: Founder and creative director. Led a 15-person team on *Why God?*
+    - Presented *Why God?* at Tenerife GG (TGG), showcasing the game to the indie dev community.
 - 💻 **Kaizten Analytics**: Full-Stack Developer (Java, Spring Boot, Vue.js, TypeScript, MongoDB).
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="img/whyGod1.jpg" style="width: 90%; max-width: 400px;" alt="WhyGod? Photo1"/><br/>
+      <b>Why God? - Videogame</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="img/TGG2.jpg" style="width: 90%; max-width: 400px;" alt="TGG Photo2"/><br/>
+      <b>TGG Presentation</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="img/TGG.jpg" style="width: 90%; max-width: 400px;" alt="TGG Photo1"/><br/>
+      <b>TGG Presentation</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="img/whyGod2.jpg" style="width: 90%; max-width: 400px;" alt="WhyGod? Photo2"/><br/>
+      <b>Why God? - Videogame</b>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -29,6 +79,23 @@
 
 - 🧠 **Hunger for Innovation**: 24-hour competition solving real-world business challenges.
 - 🌍 **Pueblos Remotos**: Tech-driven collaboration to solve real problems in rural communities in northern Tenerife.
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: top;">
+      <div style="max-width: 300px; margin: auto;">
+        <img src="img/PueblosRemotos.JPG" alt="Pueblos Remotos" style="width: 100%; height: auto;" />
+        <b>Pueblos Remotos</b>
+      </div>
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: top;">
+      <div style="max-width: 300px; margin: auto;">
+        <img src="img/HFI.jpg" alt="Hunger for Innovation" style="width: 100%; height: auto;" />
+        <b>Hunger for Innovation</b>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
