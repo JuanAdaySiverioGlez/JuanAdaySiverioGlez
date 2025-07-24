@@ -42,13 +42,26 @@ I want to keep learning, building, and improving the world through code.
 
 ## 🛠️ Technologies & Tools
 
-**Languages**: C++, Python, Java, JavaScript, SQL  
-**Frameworks & Tools**: Git, Unity, Unreal Engine, MongoDB, Spring Boot, REST APIs, WSL/Linux
-**Expertise**: Metaheuristics, combinatorial optimization, hexagonal architecture, applied AI, video game design
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🧰 Frameworks & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🧠 Expertise
+`Metaheuristics` • `Combinatorial Optimization` • `Hexagonal Architecture` • `Applied AI` • `Game Design`
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juanaday/)
-[![Steam](https://img.shields.io/badge/Why%20God%3F%20on%20Steam-000?logo=steam)](https://store.steampowered.com/app/tu_juego)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/juanaday/](https://www.linkedin.com/in/juan-aday-siverio-gonz%C3%A1lez))
+[![Steam](https://img.shields.io/badge/Why%20God%3F%20on%20Steam-000?logo=steam)]([https://store.steampowered.com/app/tu_juego](https://store.steampowered.com/app/2565000/Why_God/))
 
 📫 *Interested in collaborating? I'm always open to new challenges and impactful ideas.*
