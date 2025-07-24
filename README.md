@@ -16,25 +16,21 @@
 - 🎤 **MAEB**: Speaker at the Spanish Conference on Metaheuristics, Evolutionary and Bioinspired Algorithms.
 - 🧩 **Cesinf**: Presenter at university events on algorithms, AI, and video game development.
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td style="width: 33%; text-align: center; vertical-align: top;">
-      <div style="max-width: 200px; margin: auto;">
-        <img src="img/csinf.jpg" alt="Cesinf" style="width: 100%; height: auto;" />
-        <b>Cesinf</b>
-      </div>
+    <td colspan="2" style="text-align: center; vertical-align: middle; padding: 10px;">
+      <img src="img/csinf.jpg" alt="Cesinf" style="max-width: 300px; width: 100%; height: auto; object-fit: contain;" />
+      <br/><b>Cesinf</b>
     </td>
-    <td style="width: 33%; text-align: center; vertical-align: top;">
-      <div style="max-width: 200px; margin: auto;">
-        <img src="img/MAEB.jpg" alt="MAEB" style="width: 100%; height: auto;" />
-        <b>MAEB</b>
-      </div>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 10px;">
+      <img src="img/MAEB.jpg" alt="MAEB" style="max-width: 200px; width: 100%; height: auto; object-fit: contain;" />
+      <br/><b>MAEB</b>
     </td>
-    <td style="width: 33%; text-align: center; vertical-align: top;">
-      <div style="max-width: 200px; margin: auto;">
-        <img src="img/TFG.png" alt="SCC-VRP" style="width: 100%; height: auto;" />
-        <b>SCC-VRP</b>
-      </div>
+    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 10px;">
+      <img src="img/TFG.png" alt="SCC-VRP" style="max-width: 200px; width: 100%; height: auto; object-fit: contain;" />
+      <br/><b>SCC-VRP</b>
     </td>
   </tr>
 </table>
@@ -82,13 +78,13 @@
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 50%; text-align: center; vertical-align: top;">
+    <td style="width: 25%; text-align: center; vertical-align: top;">
       <div style="max-width: 300px; margin: auto;">
         <img src="img/PueblosRemotos.JPG" alt="Pueblos Remotos" style="width: 100%; height: auto;" />
         <b>Pueblos Remotos</b>
       </div>
     </td>
-    <td style="width: 50%; text-align: center; vertical-align: top;">
+    <td style="width: 75%; text-align: center; vertical-align: top;">
       <div style="max-width: 300px; margin: auto;">
         <img src="img/HFI.jpg" alt="Hunger for Innovation" style="width: 100%; height: auto;" />
         <b>Hunger for Innovation</b>
