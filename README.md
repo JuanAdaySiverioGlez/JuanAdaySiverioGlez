@@ -58,10 +58,12 @@ I want to keep learning, building, and improving the world through code.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🧠 Expertise
-`Metaheuristics` • `Combinatorial Optimization` • `Hexagonal Architecture` • `Applied AI` • `Game Design`
+`Metaheuristics` • `Combinatorial Optimization` • `Hexagonal Architecture` • `AI` • `Game Design`
 ---
 
+### ☎️ Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/juanaday/](https://www.linkedin.com/in/juan-aday-siverio-gonz%C3%A1lez))
 [![Steam](https://img.shields.io/badge/Why%20God%3F%20on%20Steam-000?logo=steam)]([https://store.steampowered.com/app/tu_juego](https://store.steampowered.com/app/2565000/Why_God/))
+---
 
 📫 *Interested in collaborating? I'm always open to new challenges and impactful ideas.*
